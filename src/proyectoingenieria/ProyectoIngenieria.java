@@ -9,7 +9,7 @@ import java.io.IOException;
 
 /**
  *
- * @author Juninho
+ * Autora: Mafer Delgado
  */
 public class ProyectoIngenieria {
 
